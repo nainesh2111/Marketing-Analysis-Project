@@ -194,11 +194,6 @@ Marketing-Analytics-Project/
 
 ---
 
-# Dashboard Screenshots
-
-(Add your dashboard screenshots here)
-
----
 
 # Outcome
 This project demonstrates an end-to-end data analytics workflow:
